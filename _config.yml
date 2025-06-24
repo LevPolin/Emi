@@ -1,0 +1,6 @@
+include:
+  - .gitattributes
+
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
